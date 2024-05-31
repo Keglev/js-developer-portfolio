@@ -47,13 +47,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex using API",
+      "url": "https://github.com/Keglev/pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Calculating Inflation Index in Brazil",
+      "url": "https://github.com/Keglev/apiinflationbr",
       "github": true
     }
   ],
