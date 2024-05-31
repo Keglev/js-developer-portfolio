@@ -26,6 +26,10 @@
       {
         "name": "HTML5",
         "logo": "https://raw.githubusercontent.com/Keglev/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/Keglev/js-developer-portfolio/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
